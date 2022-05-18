@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jonmersha/cicdtest/issues"
   },
-  "homepage": "https://github.com/jonmersha/cicdtest#readme"
+  "homepage": "https://github.com/jonmersha/cicdtest#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
